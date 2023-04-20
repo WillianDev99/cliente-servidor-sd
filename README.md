@@ -1,2 +1,2 @@
 # cliente-servidor-sd
-Trabalho de Sistemas Distribuídos - Cliente/Servidor 
+Comunicação entre Cliente/Servidor usando Sistemas Distribuídos. 
