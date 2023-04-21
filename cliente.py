@@ -1,4 +1,5 @@
-# coding: utf-8 
+// linguist-language=Python
+# coding: utf-8
 import socket, threading             
   
 def main():
